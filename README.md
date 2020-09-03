@@ -54,7 +54,7 @@ See the documentation inside each file for further details.
 - `demo1.m`     : example of use of SDG on the Brown badly-scaled function;
 - `demo2.m`     : example of use of SDG for training a linear classifier;
 
-Subfolder 'Demo_files'
+Subfolder `Demo_files`
 - `brown.m`     : Brown badly-scaled function;
 - `logreg.m`    : regularized logistic regression function;
 - `cod-rna.mat` : training data for the cod-rna dataset.
